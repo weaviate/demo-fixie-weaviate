@@ -1,0 +1,4 @@
+langchain == 0.0.164
+openai == 0.27.6
+fixieai ~= 0.2.21
+weaviate-client == 3.18.0

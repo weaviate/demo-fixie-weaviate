@@ -1,0 +1,4 @@
+handle: search-weaviate
+description: do hybrid search on weaviate using natural language
+more_info_url: https://github.com/weaviate/weaviate
+entry_point: main:agent

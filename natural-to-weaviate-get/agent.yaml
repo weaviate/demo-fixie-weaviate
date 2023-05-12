@@ -1,0 +1,4 @@
+handle: natural-to-weaviate-get
+description: translates a natural language query into weaviate a graphql Get query
+more_info_url: https://weaviate.io/developers/weaviate/api/graphql/get
+entry_point: main:invoke_chain
